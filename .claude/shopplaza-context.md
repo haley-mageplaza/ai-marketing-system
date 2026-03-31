@@ -7,7 +7,18 @@
 
 ## Products
 - B2C Shopify apps: https://apps.shopify.com/partners/shopplaza
+  + MP Size Chart & Size Guide: https://apps.shopify.com/avada-size-chart
+  + MP Instagram Feed: https://apps.shopify.com/mageplaza-instagram-feed
+  + MP Google Shopping Feed: https://apps.shopify.com/mageplaza-product-feed
+  + MP Digital Downloads: https://apps.shopify.com/mp-digital-download
+  + MP Product Quiz: https://apps.shopify.com/mp-product-quiz
+
 - B2B Shopify apps: https://apps.shopify.com/partners/mageplaza-co-ltd
+  + SP Hide Price & Access Control: https://apps.shopify.com/hide-price-access-control
+  + SP Request a Quote: https://apps.shopify.com/mp-request-a-quote-rfq
+  + SP Login As Customer: https://apps.shopify.com/sp-login-as-customer
+  + SP Smart Shipping & Batching: https://apps.shopify.com/sp-smart-shipping-solution
+  + B2B Signup & Company Profiles: https://apps.shopify.com/sp-b2b-company-accounts
 
 ## Target Audience
 - Shopify store owners (all sizes, global)
