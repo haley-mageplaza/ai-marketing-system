@@ -1,13 +1,33 @@
-# Mageplaza Brand Context
+# Mageplaza Extension Brand Context
 
 ## Company
-- Name: Mageplaza
-- Website: https://www.mageplaza.com
+- Name: Mageplaza (https://www.mageplaza.com)
+- Website: https://www.mageplaza.com/magento-2-extensions/
 - Founded: 2014, Vietnam, US
-- Focus: Magento 2 / Adobe Commerce extensions and services
+- Focus: Magento 2 / Adobe Commerce extensions
 
-## Products 
-210+ Magento 2 extensions (SEO, checkout, payments, marketing) (https://www.mageplaza.com/magento-2-extensions/)
+## 1. Introduction
+
+Mageplaza Extensions is a comprehensive suite of Magento 2 modules developed by Mageplaza to enhance eCommerce store performance, user experience, marketing capabilities, and operational efficiency.
+
+Mageplaza is a leading Magento solution provider with a strong global presence in the Magento ecosystem, offering both Magento extensions and services.
+
+The extension ecosystem is designed to help merchants:
+- Scale their Magento stores faster
+- Improve conversion rates and customer experience
+- Automate marketing and SEO processes
+- Integrate with third-party systems
+- Optimize performance and site speed
+
+---
+
+## 2. List of Magento Extensions & Key Stats
+
+### 2.1. List of Magento Extensions
+
+## List of Magento Extensions
+- 210+ Magento 2 extensions (SEO, checkout, payments, marketing) (https://www.mageplaza.com/magento-2-extensions/)
+
 https://www.mageplaza.com/magento-2-one-step-checkout-extension/	One Step Checkout
 https://www.mageplaza.com/magento-2-pdf-invoice-extension/	Pdf Invoice
 https://www.mageplaza.com/magento-2-reward-points-extension/	Reward Points
@@ -142,57 +162,231 @@ https://www.mageplaza.com/magento-2-sms-notification/	SMS Notifications
 https://www.mageplaza.com/magento-2-improved-sorting/	Better Sorting
 https://www.mageplaza.com/magento-2-thank-you-page/	Thank You Page
 
-## Services
-Professional Magento services (development, migration, support, Hyva theme development) (https://www.mageplaza.com/services/)
-Magento Development Services	https://www.mageplaza.com/services/magento-development/
-Hire Magento Developers	https://www.mageplaza.com/services/magento-2-hire-developer/	
-Magento Rapid Deployment Packages	https://www.mageplaza.com/services/magento-rapid-deployment-packages/
-Magento Custom Development	https://www.mageplaza.com/services/magento-2-customization-service/
-Hyvä Theme Development	https://www.mageplaza.com/services/magento-hyva-theme-development/
-PWA Development	https://www.mageplaza.com/services/pwa-development-services/
-Magento Site Audit	https://www.mageplaza.com/services/magento-site-audit-services/
-Magento SEO Audit	https://www.mageplaza.com/services/magento-seo-audit/
-Magento UI/UX Audit	https://www.mageplaza.com/services/magento-ux-audit/
-Magento Code Audit	https://www.mageplaza.com/services/magento-code-audit/
-Magento Security Audit	https://www.mageplaza.com/services/magento-security-audit/
-Performance Audit	https://www.mageplaza.com/services/magento-performance-audit/
-Magento Support & Maintenance	https://www.mageplaza.com/services/magento-2-support-maintenance-services/
-Magento Performance Optimization	https://www.mageplaza.com/services/magento-2-performance-optimization-services/
-Magento Upgrade Service	https://www.mageplaza.com/services/magento-2-upgrade-service/
-Magento SEO Services	https://www.mageplaza.com/services/magento-2-seo-services/
-Magento Security Patches	https://www.mageplaza.com/services/magento-security-patches/
-Magento Data Migration	https://www.mageplaza.com/services/magento-2-migration-service/
-Magento to Shopify Migration	https://www.mageplaza.com/services/magento-to-shopify-migration/
-Magento Integration	https://www.mageplaza.com/services/magento-integration-service/
-Adobe Commerce Development	https://www.mageplaza.com/services/adobe-commerce-development/
-Adobe Commerce 2 Migration	https://www.mageplaza.com/services/adobe-commerce-2-migration-service/
+### 2.2. Key Stats
+These numbers are important for positioning and credibility:
 
-## Target Audience
-- Magento / Adobe Commerce store owners (global)
-- Magento developers and agencies (global)
+- 200+ Magento 2 extensions
+- 137,000+ customers worldwide
+- Presence in 137+ countries
+- 12+ years in Magento ecosystem
+- 4.8/5 average customer rating (Trustpilot & marketplace platforms)
+- 90+ extensions compatible with Hyvä Theme
+- 17+ extensions compatible with Hyvä Checkout
 
-## Tone of Voice
-- Professional but approachable
-- Technically credible — audience are developers and store managers
-- Clear, solution-focused, not jargon-heavy
+---
 
-## Key Stats & Proof Points
-- Trusted by 137,000+ Magento merchants worldwide
-- Official Adobe Commerce Marketplace partner
-- Dedicated support team
+## 3. Target Audience
 
-## Top Extensions
-- SEO Suite, One Step Checkout, Layered Navigation, Gift Card,
-  Reward Points, Advanced Search, Blog Pro, Product Labels
+Mageplaza Extensions target multiple segments within the Magento ecosystem:
 
-## Top Services
-- Magento Support & Maintenance, Magento Hyva Theme Development, Magento Upgrade
+### 3.1 Magento Store Owners
+- SMB to enterprise merchants using Magento Open Source or Adobe Commerce  
+- Businesses looking to improve performance, UX, and conversions  
+- Merchants needing ready-to-use solutions without heavy custom development  
 
-## Main Competitors for Magento Extensions
-- Amasty, Mageworx, Webkul, Magefan, etc.
+### 3.2 eCommerce Managers / Marketers
+- Responsible for SEO, CRO, and marketing automation  
+- Need tools to:
+  - Increase traffic
+  - Improve conversion rates
+  - Manage promotions and campaigns  
+- Prefer configurable, non-technical solutions  
 
-## Main Competitors for Magento Services
-- Amasty, Webkul, Scandiweb, Elsner Technologies, etc.
+### 3.3 Developers & Agencies
+- Magento developers building or maintaining stores  
+- Agencies delivering projects for clients  
+- Need:
+  - Clean code
+  - Extendable architecture
+  - Compatibility with existing systems  
+
+### 3.4 B2B Businesses
+- Companies selling wholesale or managing large orders  
+- Need advanced features:
+  - Company accounts
+  - Custom pricing
+  - Quote systems
+  - Role-based permissions  
+
+---
+
+## 4. Tone of Voice
+
+Mageplaza Extensions content should follow a consistent tone:
+
+### Core Tone
+- Professional but approachable  
+- Clear and practical  
+- Solution-focused, not overly promotional  
+
+### Writing Style
+- Use simple, direct language  
+- Avoid unnecessary technical jargon unless targeting developers  
+- Focus on outcomes, not just features  
+
+### Messaging Principles
+- Emphasize **business impact** (conversion, revenue, efficiency)  
+- Highlight **ease of use and scalability**  
+- Show **credibility through experience and data**  
+
+### Example Tone
+Instead of:
+> “Advanced feature-rich extension with powerful capabilities”
+
+Use:
+> “Helps you increase conversions by simplifying the checkout process”
+
+---
+
+## 5. Extension Portfolio
+
+Mageplaza offers 200+ Magento 2 extensions across key categories:
+
+- Sales & Conversion Optimization  
+- SEO & Marketing  
+- Checkout & Payment  
+- Customer Experience & Engagement  
+- Product & Catalog Management  
+- Store Performance & Speed  
+- B2B Solutions  
+- Integrations (CRM, ERP, analytics, etc.)  
+- Content & Customization  
+
+---
+
+## 6. Core Value Propositions
+
+### 6.1 Business-Oriented Solutions
+Extensions are built around real business problems:
+- Increase sales  
+- Improve conversion rate  
+- Enhance user experience  
+- Automate workflows  
+
+---
+
+### 6.2 SEO & Marketing Optimization
+
+Key SEO capabilities:
+- Metadata automation  
+- Rich snippets (structured data)  
+- Canonical tags  
+- XML/HTML sitemap  
+- SEO analysis tools  
+
+---
+
+### 6.3 Integration Capabilities
+
+Mageplaza extensions integrate with:
+- CRM systems  
+- Email marketing platforms  
+- Analytics tools (GA4, GTM)  
+- Payment & shipping providers  
+
+---
+
+### 6.4 Performance & Scalability
+
+Focus areas:
+- Speed optimization  
+- Lightweight frontend compatibility (Hyvä)  
+- Scalable architecture  
+
+---
+
+## 7. Hyvä & Modern Frontend Support
+
+Mageplaza strongly supports modern Magento frontend ecosystems:
+
+- 90+ extensions compatible with Hyvä Theme  
+- 17+ extensions compatible with Hyvä Checkout  
+
+Benefits:
+- Faster load time  
+- Better Core Web Vitals  
+- Improved SEO performance  
+
+---
+
+## 8. Free vs Premium Extensions
+
+### Free Extensions
+- Basic functionality  
+- Suitable for small stores  
+- Available via GitHub & Marketplace  
+
+### Premium Extensions
+- Advanced features  
+- Regular updates  
+- Dedicated support  
+- Pricing typically ranges from $99 → $249+  
+
+---
+
+## 9. B2B Capabilities
+
+Mageplaza supports B2B workflows through extensions such as:
+
+- Company Accounts  
+- Request for Quote (RFQ)  
+- Bulk ordering  
+- Tier pricing & permissions  
+
+---
+
+## 10. Main Competitors
+
+Mageplaza operates in a competitive Magento extension market.
+
+### 10.1 Direct Competitors
+
+#### Amasty
+- Strong in advanced customization  
+- Wide product catalog  
+- Suitable for enterprise and complex use cases  
+
+#### Aheadworks
+- Focus on UX and analytics  
+- Strong checkout and reporting features  
+
+#### BSS Commerce
+- Competitive pricing  
+- Covers many common use cases  
+
+#### Webkul
+- Strong in marketplace and multi-vendor solutions  
+- Highly customizable  
+
+#### MageWorx
+- Known for SEO and product management tools  
+
+---
+
+### 10.2 Competitive Positioning
+
+Mageplaza stands out by:
+
+- Proven Magento expertise with **12+ years in Ecommerce and Magento**
+- Balancing **ease of use and scalability**  
+- Faster implementation compared to highly customized solutions  
+- Strong focus on **UX, performance, and SEO**  
+- Large ecosystem with consistent UI/UX across extensions  
+
+---
+
+## 11. Installation & Ecosystem
+
+Extensions can be installed via:
+- Composer  
+- ZIP upload  
+- Magento Marketplace  
+
+Typical setup includes:
+- Mageplaza Core module  
+- CLI deployment commands  
+
+---
 
 ## Social Media Channels
 - LinkedIn: https://www.linkedin.com/company/mageplaza/

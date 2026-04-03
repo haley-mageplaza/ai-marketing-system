@@ -11,8 +11,7 @@
 - "Cùng bạn chinh phục thị trường với giải pháp thương mại điện tử hàng đầu"
   (Together conquering the market with leading ecommerce solutions)
 - #1 ecommerce consulting partner in Vietnam
-- 10+ years experience (hơn 10 năm kinh nghiệm)
-- 119,000+ global customers (hơn 119,000 khách hàng toàn cầu)
+- 12+ years experience (hơn 12 năm kinh nghiệm)
 
 ## Services Offered in Vietnam
 ### Magento
