@@ -24,23 +24,19 @@ Every page must target ONE intent:
 - "What is Shopify B2B"
 - "How to increase Shopify sales"
 
-👉 Website SEO focus
-
----
+Website SEO focus
 
 ### Commercial
 - "Best Shopify apps for B2B"
 - "Top Shopify quiz apps"
 
-👉 Bridge SEO → ASO
-
----
+Bridge SEO → ASO
 
 ### Transactional
 - App pages
 - Landing pages
 
-👉 Direct conversion
+Direct conversion
 
 ---
 
@@ -61,13 +57,9 @@ Each page must include:
 - Drive traffic
 - Support funnel
 
----
-
 ### Landing Pages
 - Target commercial & transactional
 - Drive conversion
-
----
 
 ### App-related Content
 - Target app-related queries
@@ -82,13 +74,9 @@ Each page must include:
 - Benefit-driven
 - Clear intent
 
----
-
 ### Headings
 - Answer specific questions
 - Structured logically
-
----
 
 ### Meta Description
 - Encourage clicks
@@ -105,11 +93,39 @@ Content must:
 
 ---
 
-## 7. Internal Linking (SEO)
+## 7. Internal Linking
 
-Each page must:
-- Link to related blogs
-- Link to app pages
+### Core Rule
+Each page must include:
+- At least 1 blog link
+- At least 1 app link
+
+### Funnel Linking
+- TOFU → MOFU (best apps, tutorials)
+- MOFU → BOFU (app pages)
+- BOFU → Support (blogs, FAQs)
+
+### App Linking
+- Explain the problem BEFORE linking to an app
+
+### Anchor Text
+- Natural and descriptive
+- Avoid generic "click here"
+
+### Placement
+- After problem statement
+- After solution explanation
+
+### Frequency
+- 3–6 internal links per blog post
+
+### Priority
+1. App pages
+2. Landing pages
+3. Blogs
+
+### Principle
+Internal links = next step, NOT promotion
 
 ---
 

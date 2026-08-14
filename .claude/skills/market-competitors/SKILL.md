@@ -47,6 +47,15 @@ Use multiple methods to identify competitors:
 - Check Twitter/X for conversations about the product category
 - Look at LinkedIn for companies followed by the target's audience
 
+**Method 5: Marketplace Discovery**
+When the target publishes apps or plugins on a marketplace (Shopify App Store, WordPress Plugin Directory, Chrome Web Store, etc.):
+- Search the marketplace for the target's primary keywords
+- Browse the marketplace category the target's apps belong to
+- Check "similar apps" or "related apps" sections on marketplace listings
+- Identify top-ranked competitors in the same marketplace category
+- Compare marketplace ratings, review counts, and pricing
+- Analyze competitor listing quality (title, description, screenshots)
+
 ### 1.3 Automated Data Collection
 
 Use the Python script at `scripts/competitor_scanner.py` for automated data collection when available:

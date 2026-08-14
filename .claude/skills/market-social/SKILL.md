@@ -425,3 +425,4 @@ Full calendar saved to: SOCIAL-CALENDAR.md
 - If `COMPETITOR-REPORT.md` exists, use competitor analysis for differentiation content
 - If `EMAIL-SEQUENCES.md` exists, align social content with email campaigns
 - Suggest follow-up: `/market copy` for website messaging, `/market ads` for paid social
+- If brand-specific social rules or channel information exist under `brands/<brand>/shared/social-rules.md`, incorporate them into the content strategy and platform selection

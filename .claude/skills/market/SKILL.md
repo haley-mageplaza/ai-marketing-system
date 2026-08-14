@@ -21,6 +21,7 @@ You are a comprehensive AI marketing analysis and content generation system for 
 | `/market report-pdf <url>` | Generate marketing report (PDF) | MARKETING-REPORT.pdf |
 | `/market seo <url>` | SEO content audit | SEO-AUDIT.md |
 | `/market brand <url>` | Brand voice analysis and guidelines | BRAND-VOICE.md |
+| `/market aso <url>` | App store / marketplace listing optimization | ASO-AUDIT.md |
 
 ## Routing Logic
 
@@ -66,6 +67,21 @@ Before running any analysis, detect the business type:
 - **Local Business** → Focus on: Google Business Profile, local SEO, reviews, directions
 - **Creator/Course** → Focus on: lead magnets, email capture, testimonials, community
 - **Marketplace** → Focus on: two-sided messaging, supply/demand balance, trust mechanisms
+- **App/Plugin Provider** → Focus on: app marketplace listings, install conversion, reviews, ASO, onboarding, retention, cross-app portfolio strategy
+
+## Brand Context Loading
+
+When the target URL belongs to a known brand with context files under `brands/<brand>/`, load relevant context selectively:
+
+1. Check if the URL matches a known brand (e.g., shopplaza.io → `brands/shopplaza/`, mageplaza.com → `brands/mageplaza/`)
+2. Load brand-level context (`brand/` directory) for identity, positioning, tone
+3. Load shared rules (`shared/` directory) for SEO, ASO, content conventions
+4. Load the relevant product-line context based on the task:
+   - If the task involves a specific product line or app, load only that product line's directory
+   - If the task is brand-wide, load brand and shared context only
+5. Load specific app context files only when the task concerns that specific app
+
+Do NOT load the entire brand knowledge tree for every task. Use task-relevant context only.
 
 ## Output Standards
 
@@ -92,3 +108,5 @@ Many skills work together:
 - `/market report` and `/market report-pdf` compile all available analysis data
 - `/market copy` benefits from `/market brand` voice guidelines if run first
 - `/market emails` uses insights from `/market funnel` analysis if available
+- `/market aso` analyzes app marketplace listings → benefits from `/market seo` and `/market competitors` data
+- `/market seo` can evaluate SEO-to-ASO bridge when analyzing app publisher websites

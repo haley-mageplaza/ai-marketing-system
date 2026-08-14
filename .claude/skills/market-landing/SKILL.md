@@ -24,6 +24,7 @@ Determine which type of landing page you are analyzing. This affects benchmark e
 | Waitlist | Join waitlist | 15-25% | 35%+ |
 | Consultation Booking | Schedule a call | 5-10% | 15%+ |
 | Nonprofit Donation | Make a donation | 2-5% | 8%+ |
+| App Store Listing | Install app from marketplace | Varies by marketplace | Varies by marketplace |
 
 ### Step 2: Run the 7-Point CRO Framework
 Analyze each section in order. Score each section 1-10 and provide specific findings.
@@ -326,3 +327,4 @@ Generate a file called `LANDING-CRO.md` in the project root or output directory 
 - Reference industry benchmarks so the client understands where they stand.
 - If you have access to the page via browser tools, take screenshots and reference specific elements.
 - If the user has run `/market audit` previously, incorporate those findings into the CRO analysis for a more complete picture.
+- For App Store Listing pages, evaluate marketplace-specific conversion elements: first-paragraph hook quality, screenshot benefit messaging, feature-to-outcome translation, review/rating prominence, competitive positioning clarity, and install CTA friction. Consider using `/market aso` for a deeper app marketplace listing analysis.

@@ -13,7 +13,7 @@ Shopplaza ASO focuses on TWO systems:
 - Content builds intent
 - Traffic converts into installs
 
-👉 ASO is NOT just keywords — it is conversion + positioning
+ASO is NOT just keywords — it is conversion + positioning
 
 ---
 
@@ -36,14 +36,12 @@ Every app must clearly answer:
 3. What outcome does it deliver?
 4. Why is it better than alternatives?
 
----
-
 ### Positioning Examples
 
-#### Weak:
+Weak:
 - "Request a quote app for Shopify"
 
-#### Strong:
+Strong:
 - "Let customers request quotes and negotiate pricing so you can close high-value B2B deals faster"
 
 ---
@@ -59,8 +57,6 @@ Each app listing must follow:
 Example:
 - "Request a Quote, Hide Price for B2B"
 
----
-
 ### 2. Subtitle (Short Description)
 - Outcome-driven
 - Focus on benefit
@@ -68,13 +64,9 @@ Example:
 Example:
 - "Let customers request quotes, hide prices, and manage B2B orders easily"
 
----
-
 ### 3. First Paragraph (Critical)
 - Must hook immediately
 - Must define problem + solution
-
----
 
 ### 4. Feature Sections
 Each feature must:
@@ -82,35 +74,26 @@ Each feature must:
 - Explain how it works
 - Include outcome
 
----
-
 ### 5. Use Cases
 - Real merchant scenarios
 - B2B vs B2C clarity
-
----
 
 ### 6. Social Proof
 - Ratings
 - Reviews
 - Experience
 
----
-
 ### 7. CTA
-👉 Install / Try free
+Install / Try free
 
 ---
 
 ## 5. Keyword Strategy (ASO)
 
 Each app must target:
-
 - Primary keyword
 - Feature keywords
 - Problem-based keywords
-
----
 
 ### Example (Request a Quote app)
 
@@ -141,34 +124,26 @@ ASO success depends heavily on conversion.
 
 ### Must optimize:
 
-#### Clarity
-- Users understand value in 5 seconds
+**Clarity** — Users understand value in 5 seconds
 
-#### Relevance
-- Matches their problem
+**Relevance** — Matches their problem
 
-#### Trust
-- Reviews, ratings
+**Trust** — Reviews, ratings
 
-#### Simplicity
-- No complex explanation
+**Simplicity** — No complex explanation
 
 ---
 
 ## 8. Feature Writing Rules
 
-Each feature must follow:
-
-👉 Benefit → How → Outcome
-
----
+Each feature must follow: Benefit → How → Outcome
 
 ### Example
 
-❌ Weak:
+Weak:
 - "Hide price feature"
 
-✅ Strong:
+Strong:
 - "Hide prices from guests or specific customers so you can control who sees your pricing and protect your margins"
 
 ---
@@ -180,18 +155,12 @@ Each screenshot must:
 - Highlight benefit, not UI only
 - Include short text (clear and bold)
 
----
-
 ### Screenshot structure:
-
 - Headline (benefit)
 - Supporting line (how)
 - Visual (UI)
 
----
-
 ### Example:
-
 - "Hide prices for non-logged users"
 - "Control who sees your pricing"
 
@@ -200,23 +169,15 @@ Each screenshot must:
 ## 10. B2B vs B2C ASO Strategy
 
 ### B2C Apps
-Focus:
-- Conversion
-- UX
-- Sales growth
+Focus: Conversion, UX, Sales growth
 
 Messaging:
 - Increase AOV
 - Boost engagement
 - Improve shopping experience
 
----
-
 ### B2B Apps
-Focus:
-- Workflow
-- Pricing control
-- Operations
+Focus: Workflow, Pricing control, Operations
 
 Messaging:
 - Manage wholesale customers
@@ -279,10 +240,8 @@ Before publishing:
 
 ## 16. Key Principle
 
-👉 ASO is about:
+ASO is about:
 
-Not:
-- "What the app does"
+Not: "What the app does"
 
-But:
-- "What the merchant achieves" 
+But: "What the merchant achieves"

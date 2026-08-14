@@ -28,6 +28,7 @@ Classify the business into one of these categories. This classification shapes e
 | **Local Business** | Address, phone number, hours, "near me", Google Maps embed | Local SEO, Google Business Profile, reviews, NAP consistency |
 | **Creator/Course** | Lead magnets, email capture, course listings, community links | Email capture rate, funnel design, testimonials, content quality |
 | **Marketplace** | Two-sided messaging, buyer/seller flows, listing pages | Supply/demand balance, trust mechanisms, network effects |
+| **App/Plugin Provider** | App store listings, developer partner pages, app install CTAs, extension/plugin references | App marketplace optimization, listing conversion, review health, install-to-activation funnel, cross-app portfolio strategy, ASO |
 
 ### 1.3 Identify Key Pages
 

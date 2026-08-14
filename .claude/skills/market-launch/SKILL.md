@@ -35,6 +35,7 @@ Select the primary launch strategy based on the user's context:
 | Community Launch | Niche product, developer tools | Reddit, Discord, Slack communities | 6-8 weeks |
 | Partner Launch | B2B, enterprise, marketplace | Partner channels | 8-12 weeks |
 | Hybrid Launch | Any high-stakes launch | Multi-channel coordinated | 8-12 weeks |
+| App Store Launch | App/plugin for a marketplace | Marketplace listing + content + community | 6-8 weeks |
 
 ### Step 3: Generate the 8-Week Launch Timeline
 
@@ -454,3 +455,28 @@ Generate a file called `LAUNCH-PLAYBOOK.md` with:
 - Time the playbook to their stated launch date and work backwards.
 - Always include a "minimum viable launch" option for users with limited resources.
 - Emphasize that launching is an event, not a moment -- the buildup and follow-through matter more than day one.
+
+## App Store Launch Details
+
+When the launch type is "App Store Launch", adapt the playbook with marketplace-specific steps:
+
+### Pre-Launch (Weeks 1-4)
+- Optimize marketplace listing (title, subtitle, description, screenshots) — use `/market aso` for guidance
+- Recruit beta testers from the target merchant community
+- Seed content that supports marketplace keywords (SEO-to-ASO bridge)
+- Build a waitlist or early-access signup for the app
+
+### Launch Week
+- Publish the optimized marketplace listing
+- Coordinate blog content, social posts, and email to drive installs
+- Engage in relevant merchant communities (provide value, don't spam)
+- Monitor marketplace ranking and listing conversion
+
+### Post-Launch (Week 8+)
+- Solicit reviews from early adopters (focus on use cases and outcomes)
+- Publish use case content that reinforces marketplace keywords
+- Analyze install-to-activation funnel and optimize onboarding
+- Plan cross-app promotion if other apps are in the portfolio
+- Iterate on listing based on review feedback and competitive analysis
+
+If brand-specific launch context exists (e.g., under `brands/<brand>/`), incorporate it into the playbook.

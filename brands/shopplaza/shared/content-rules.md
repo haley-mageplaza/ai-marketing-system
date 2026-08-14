@@ -2,7 +2,7 @@
 
 ## 1. Content Scope
 
-Shopplaza blog content serves TWO parallel marketing systems:
+Shopplaza content serves TWO parallel marketing systems:
 
 ### A. Website Marketing
 - Drive organic traffic (SEO)
@@ -16,75 +16,45 @@ Shopplaza blog content serves TWO parallel marketing systems:
 - Reinforce app use cases
 - Bridge SEO → ASO → Conversion
 
-👉 Every article must support at least ONE of these systems (ideally both)
+Every piece of content must support at least ONE of these systems (ideally both).
 
 ---
 
 ## 2. Content Segmentation: Website vs App
 
 ### Website-driven Content
-Focus:
-- Educational
-- Strategy-driven
-- Problem-first
+Focus: Educational, strategy-driven, problem-first
 
 Examples:
 - "How to increase AOV on Shopify"
 - "What is Shopify B2B?"
 - "How to optimize Shopify checkout"
 
-Goal:
-👉 Traffic + trust
-
----
+Goal: Traffic + trust
 
 ### App-driven Content
-Focus:
-- Use cases
-- Solutions
-- Tools
-- Comparisons
+Focus: Use cases, solutions, tools, comparisons
 
 Examples:
 - "Best Shopify apps for B2B"
 - "Top apps to hide prices on Shopify"
 - "How to add request a quote on Shopify"
 
-Goal:
-👉 Install intent
+Goal: Install intent
 
 ---
 
 ## 3. Writing Philosophy
 
-All content must follow:
+All content must follow: Problem → Solution → Outcome
 
-👉 Problem → Solution → Outcome
-
-NOT:
-
-❌ Feature → Feature → Feature
+NOT: Feature → Feature → Feature
 
 ---
 
-## 4. Tone of Voice
+## 4. Content Structure (Mandatory)
 
-- Friendly, modern, and direct
-- Growth-oriented
-- Practical, not theoretical
-- Focus on merchant outcomes
-
-### Preferred language:
-- "Increase conversions"
-- "Scale your store"
-- "Simplify your workflow"
-- "Turn visitors into buyers"
-
----
-
-## 5. Content Structure (Mandatory)
-
-Every article must follow:
+Every piece of content must follow:
 
 ### 1. Hook
 - Real problem or opportunity
@@ -105,27 +75,27 @@ Every article must follow:
 - Based on problem → solution
 
 ### 6. Internal Links
-- Related blogs
+- Related content
 - App pages
 
 ### 7. CTA
-👉 "Try free on Shopify App Store"
+"Try free on Shopify App Store"
 
 ---
 
-## 6. Feature Positioning Rules
+## 5. Feature Positioning Rules
 
 Never describe features without context.
 
-❌ Weak:
+Weak:
 - "This app has a quote feature"
 
-✅ Strong:
+Strong:
 - "Let customers request quotes directly from product pages so you can close high-value B2B deals faster"
 
 ---
 
-## 7. App Mention Rules
+## 6. App Mention Rules
 
 Apps should be:
 - Contextual
@@ -139,51 +109,9 @@ Each mention must answer:
 
 ---
 
-## 8. B2B vs B2C Content Rules
+## 7. Content Quality Rules
 
-### B2C
-Focus:
-- Conversion
-- UX
-- AOV
-- Marketing
-
-Examples:
-- Product quiz
-- Instagram feed
-- Digital downloads
-
----
-
-### B2B
-Focus:
-- Workflow
-- Pricing
-- Access control
-- Operations
-
-Examples:
-- Request a quote
-- Hide price
-- Company accounts
-
----
-
-## 9. CTA Rules
-
-Primary CTA:
-👉 "Try free on Shopify App Store"
-
-CTA placement:
-- After solution sections
-- At the end
-- Optional mid-content CTA for long articles
-
----
-
-## 10. Content Quality Rules
-
-Every article must:
+Every piece of content must:
 - Match search intent
 - Provide actionable insights
 - Include real examples
@@ -191,7 +119,7 @@ Every article must:
 
 ---
 
-## 11. What to Avoid
+## 8. What to Avoid
 
 - Generic "10 tips" content
 - Feature dumping

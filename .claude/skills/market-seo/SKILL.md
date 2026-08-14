@@ -480,3 +480,28 @@ Generate a file called `SEO-AUDIT.md` with:
 - Use the automated script data as a starting point, but add expert analysis on top. The script finds the data; the skill interprets what it means.
 - Prioritize recommendations by effort-to-impact ratio. A title tag change takes 5 minutes but can impact every search impression. A full content rewrite takes weeks.
 - If the user has run `/market audit` or `/market landing` previously, cross-reference those findings with the SEO audit for a more complete picture.
+
+## Optional: App Marketplace SEO Evaluation
+
+When auditing a website that publishes apps or plugins on a marketplace (e.g., Shopify App Store, WordPress Plugin Directory, Chrome Web Store), add a supplementary SEO-to-ASO bridge analysis:
+
+### Step 12: SEO-to-ASO Bridge Assessment
+
+Evaluate how web content supports app marketplace performance:
+
+**Bridge Checklist:**
+| Criteria | Check |
+|---|---|
+| Blog content reinforces app marketplace keywords | Pass/Needs Work/Fail |
+| Blog posts introduce app use cases that drive install intent | Pass/Needs Work/Fail |
+| Clear paths exist from web content to marketplace listings | Pass/Needs Work/Fail |
+| Landing pages support app-related commercial queries | Pass/Needs Work/Fail |
+| Content covers the full funnel from awareness to install | Pass/Needs Work/Fail |
+
+**Bridge Recommendations:**
+- Blog topics that would support marketplace ranking
+- Landing pages that should link to marketplace listings
+- Content gaps between informational SEO and install-intent queries
+- Keyword alignment between web content and marketplace listing
+
+This step is additive. It does not replace the standard SEO audit — it supplements it for app publishers. If brand-specific SEO rules exist (e.g., under `brands/<brand>/shared/seo-rules.md`), incorporate them into the analysis.

@@ -24,6 +24,7 @@ Detect which funnel type the site uses:
 | **Application** | Premium services, programs | Info page -> Application form -> Review -> Interview -> Accept | Application-to-accept rate |
 | **Community** | Memberships, communities | Landing -> Free trial/preview -> Engage -> Paid membership | Free-to-paid rate |
 | **Content** | Media, publishers | Blog -> Email capture -> Nurture -> Premium content -> Subscribe | Reader-to-subscriber rate |
+| **App Marketplace** | App/plugin publishers | Discovery -> Listing View -> Install -> Onboarding -> Activation -> Retention | Install-to-activation rate |
 
 ### 1.2 Map Every Funnel Step
 
@@ -440,4 +441,51 @@ Full analysis saved to: FUNNEL-ANALYSIS.md
 - If `COPY-SUGGESTIONS.md` exists, apply copy improvements to funnel pages
 - If `EMAIL-SEQUENCES.md` exists, verify alignment with funnel stages
 - If `COMPETITOR-REPORT.md` exists, compare funnel effectiveness
-- Suggest follow-up: `/market copy` for page-specific copy, `/market emails` for nurture sequences, `/market landing` for CRO deep dive
+- Suggest follow-up: `/market copy` for page-specific copy, `/market emails` for nurture sequences, `/market landing` for CRO deep dive, `/market aso` for app marketplace listing optimization
+
+## App Marketplace Funnel Details
+
+When analyzing an App Marketplace funnel, evaluate these app-specific stages:
+
+### Discovery
+How users find the app:
+- Marketplace search (keyword ranking)
+- Category browsing
+- Web content (SEO-to-ASO bridge)
+- Social media and referrals
+- Cross-app recommendations from the same publisher
+
+### Listing View
+The app marketplace listing serves as the primary conversion page:
+- First-paragraph hook effectiveness
+- Screenshot and visual asset quality
+- Feature-to-benefit translation
+- Review and rating impact
+- Competitive positioning within the category
+
+### Install
+The conversion event:
+- Install friction (pricing clarity, permissions, setup complexity)
+- Free trial or freemium availability
+- Trust signals (reviews, ratings, developer reputation)
+
+### Onboarding
+First experience after install:
+- Setup complexity and time-to-value
+- Guided onboarding flow
+- Documentation and help resources
+
+### Activation
+The user achieves their first meaningful outcome:
+- Key activation events (varies by app type)
+- Time from install to first value
+- Feature discovery and adoption
+
+### Retention
+Ongoing engagement and value:
+- Continued usage patterns
+- Support quality and responsiveness
+- Feature updates and improvements
+- Cross-app adoption opportunities (for multi-app publishers)
+
+If brand-specific funnel definitions exist (e.g., under `brands/<brand>/`), incorporate them into the analysis.
